@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{A59B52DF-8C2F-43F3-9C8F-C0A8D631AA06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZKTEco_Biometric_Device_FW", "ZKTEco_Biometric_Device_FW\ZKTEco_Biometric_Device_FW.csproj", "{432FDE4D-98E3-4F92-A8A2-721435432C54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59B52DF-8C2F-43F3-9C8F-C0A8D631AA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59B52DF-8C2F-43F3-9C8F-C0A8D631AA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59B52DF-8C2F-43F3-9C8F-C0A8D631AA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59B52DF-8C2F-43F3-9C8F-C0A8D631AA06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432FDE4D-98E3-4F92-A8A2-721435432C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432FDE4D-98E3-4F92-A8A2-721435432C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432FDE4D-98E3-4F92-A8A2-721435432C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432FDE4D-98E3-4F92-A8A2-721435432C54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D43CDB3E-1728-4004-AC06-D72F5EE853B2}
+	EndGlobalSection
+EndGlobal
